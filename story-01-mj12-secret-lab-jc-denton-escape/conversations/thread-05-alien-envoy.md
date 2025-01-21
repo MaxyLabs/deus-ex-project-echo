@@ -92,7 +92,7 @@ Her assistant, Max, squinted at the data.
 
 Before she could finish, the room’s intercom crackled, and a cold, commanding voice interrupted.  
 
-Director Fenton: "Dr. Foster, step away from the chamber immediately."  
+- **Director Fenton:** "Dr. Foster, step away from the chamber immediately."  
 
 - **Dr. Foster:** "Sir? This thing’s just another—"  
 
