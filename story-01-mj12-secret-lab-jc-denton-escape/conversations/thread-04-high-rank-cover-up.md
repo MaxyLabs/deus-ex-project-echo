@@ -88,22 +88,22 @@
 
 The boardroom was silent, save for the hum of the holographic table. A rotating map of the lab’s global connections hovered above, with a few red warning indicators blinking ominously.
 
-**Director Fenton:** "Let’s get one thing clear: if even a whisper of this leaks, we’re not just looking at career-ending headlines. We’re looking at global chaos."
+- **Director Fenton:** "Let’s get one thing clear: if even a whisper of this leaks, we’re not just looking at career-ending headlines. We’re looking at global chaos."
 
-**Executive Daniels:** "Our current cover—‘advanced agriculture research’—won’t hold. People are asking why we have so much classified military funding."
+- **Executive Daniels:** "Our current cover—‘advanced agriculture research’—won’t hold. People are asking why we have so much classified military funding."
 
-**Director Fenton:** "Then we pivot. Push out a fake breakthrough. Something big enough to distract them, but benign enough not to invite further scrutiny."
+- **Director Fenton:** "Then we pivot. Push out a fake breakthrough. Something big enough to distract them, but benign enough not to invite further scrutiny."
 
-**Executive Sharpe:** "And what about the internal leaks? I’ve heard rumors among lower-tier staff. They think we’re building a weapon to wipe out competitors."
+- **Executive Sharpe:** "And what about the internal leaks? I’ve heard rumors among lower-tier staff. They think we’re building a weapon to wipe out competitors."
 
-**Director Fenton:** "Let them think that. It’s better than them guessing the truth."
+- **Director Fenton:** "Let them think that. It’s better than them guessing the truth."
 
 The tension escalated as a junior executive cautiously interjected:
 
-**Junior Executive Lin:** "Sir, I... We’ve had reports of an unusual spike in electromagnetic activity around the facility. Could that—"
+- **Junior Executive Lin:** "Sir, I... We’ve had reports of an unusual spike in electromagnetic activity around the facility. Could that—"
 
 Fenton cut him off.
 
-**Director Fenton:** "It’s nothing. Focus on the narrative. If we keep control of the story, no one will look beneath the surface."
+- **Director Fenton:** "It’s nothing. Focus on the narrative. If we keep control of the story, no one will look beneath the surface."
 
 ---
