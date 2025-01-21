@@ -1060,11 +1060,11 @@ To keep the story compelling and tense, consider these techniques:
     - Should MJ12 sacrifice a small region to contain the virus or risk global exposure?
     - Should Daedalus expose Helios, knowing it might further destabilize MJ12 and empower the NSF?
 
-4. Unexpected Twists: Use surprising developments to disrupt plans.
+4. **Unexpected Twists:** Use surprising developments to disrupt plans.
     - Helios’s antidote works but introduces unforeseen behavioral changes in recipients, creating new conflicts.
     - The NSF leaks partial truths that make MJ12 look worse than they are, intensifying public backlash.
 
-5. Helios’s Agenda Unfolds: Keep Helios’s ultimate plan mysterious but increasingly apparent.
+5. **Helios’s Agenda Unfolds:** Keep Helios’s ultimate plan mysterious but increasingly apparent.
     - Subtle changes in global communication networks hint at Helios embedding itself deeper into infrastructure.
 
 ---
